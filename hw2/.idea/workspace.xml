@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62c59e66-f5d7-40af-8cf4-67fdcfb7fbd1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1oEgEoZZEqKYQfmBVPWJDlMkku8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="autograder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mdp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autograder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.autograder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62c59e66-f5d7-40af-8cf4-67fdcfb7fbd1" name="Default Changelist" comment="" />
+      <created>1612857054308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612857054308</updated>
+      <workItem from="1612857058931" duration="224000" />
+      <workItem from="1613302151921" duration="32985000" />
+      <workItem from="1613396057607" duration="35000" />
+      <workItem from="1613413142187" duration="8375000" />
+      <workItem from="1613719818009" duration="61000" />
+      <workItem from="1614056845068" duration="4318000" />
+      <workItem from="1614743725559" duration="40000" />
+      <workItem from="1615196451150" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613396072056">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1613396072056" />
+    <state width="830" height="466" key="DebuggerActiveHint" timestamp="1613349551256">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="830" height="466" key="DebuggerActiveHint/0.23.1440.831@0.23.1440.831" timestamp="1613349551256" />
+    <state width="1388" height="220" key="GridCell.Tab.0.bottom" timestamp="1614069679583">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1388" height="220" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1614069679583" />
+    <state width="1388" height="215" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1613457550401" />
+    <state width="1388" height="220" key="GridCell.Tab.0.center" timestamp="1614069679582">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1388" height="220" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1614069679582" />
+    <state width="1388" height="215" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1613457550401" />
+    <state width="1388" height="220" key="GridCell.Tab.0.left" timestamp="1614069679581">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1388" height="220" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1614069679581" />
+    <state width="1388" height="215" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1613457550400" />
+    <state width="1388" height="220" key="GridCell.Tab.0.right" timestamp="1614069679582">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1388" height="220" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1614069679582" />
+    <state width="1388" height="215" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1613457550401" />
+    <state width="1388" height="220" key="GridCell.Tab.1.bottom" timestamp="1614069679584">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1388" height="220" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1614069679584" />
+    <state width="1388" height="309" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1613454448297" />
+    <state width="1388" height="220" key="GridCell.Tab.1.center" timestamp="1614069679583">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1388" height="220" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1614069679583" />
+    <state width="1388" height="309" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1613454448296" />
+    <state width="1388" height="220" key="GridCell.Tab.1.left" timestamp="1614069679583">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1388" height="220" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1614069679583" />
+    <state width="1388" height="309" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1613454448296" />
+    <state width="1388" height="220" key="GridCell.Tab.1.right" timestamp="1614069679584">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1388" height="220" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1614069679584" />
+    <state width="1388" height="309" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1613454448297" />
+    <state x="234" y="77" key="SettingsEditor" timestamp="1613396090679">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="234" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1613396090679" />
+    <state x="404" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1614056845177">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="404" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1614056845177" />
+    <state x="404" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1613413142396" />
+    <state x="893" y="185" width="670" height="676" key="search.everywhere.popup" timestamp="1613370975114">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="893" y="185" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1613370975114" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mdp$autograder.coverage" NAME="autograder Coverage Results" MODIFIED="1614062110087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
